@@ -1,0 +1,11 @@
+/venv 
+test*
+__pycache__
+/logs
+/temp
+logs
+app.log
+venv
+.venv
+app.log
+.pytest_cache
